@@ -49,7 +49,7 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 16p 0x;
+  padding: 16px 0px;
 
 }
 
@@ -103,12 +103,11 @@ h1{
 footer{
   background: #333;
   color: white;
-  padding: 64px 0;
-  
+  padding: 64px 0px;
+  text-align: center;
 }
 
 small{
-  text-align: center;
   font-size: 16px;
 }
 
